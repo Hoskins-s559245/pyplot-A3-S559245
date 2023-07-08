@@ -1,11 +1,22 @@
-# Matplotlib and pyplot
 
-Complete the tasks in the Python Notebook in this repository.
-To be submitted for credit, all changes must be committed and pushed to this repository (do not create your own repository unless instructed to on the course website).
+# 44-620 - Module 3 - Assgnment A3 - Matplotlib and pyplot
 
-## Rubric
+This is the assignment for Module 3 in which the objectives are as follows:
 
-Each question is worth two points: 
+Visualize common types of data with Matplotlib. (CO2, CO6)
+ 
+Explain conclusions drawn from visualizations. (CO6)
+ 
+Describe how to embed advanced visualizations in Notebooks, such as those in D3.js. (CO1, CO3, CO5, CO6)
 
-* Data plotted as described by the question (1 pt)
-* Plot contains required elements (title, axis labels, axis titles, legend if required)
+
+
+## 🚀 About Me
+Ash Hoskins S559245
+
+https://github.com/Hoskins-s559245/pyplot-A3-S559245
+
+## Lessons Learned
+
+Being able to use pyplot and matplotlib for different scenarios was great practice, muddling through the rigorous syntax to ensure that each axis and data point is presentable for the assignment was an invaluable task. To further my understanding of the library I made an attempt to use 3d modeling on the last question just to understand the results.
+
